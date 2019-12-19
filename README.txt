@@ -25,12 +25,5 @@ execute:
 python rps.py player server port
 python rps.py player client addr:port
 
------------
-Author Info
------------
-Name: Zeyi Pan
-UR ID: 31633987
-
-
 
 

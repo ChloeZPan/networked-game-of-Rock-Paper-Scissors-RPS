@@ -1,0 +1,5 @@
+all:
+	cp rps.py rps; chmod +x rps
+
+clean:
+	rm -f rps
